@@ -23,6 +23,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rspec"
 
   #Runtime dependencies
-  s.add_runtime_dependency "active_support", ">=3.0.0"
+  s.add_runtime_dependency "activesupport", ">=2.3.11"
 
 end
