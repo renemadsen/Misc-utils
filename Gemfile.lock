@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     microting_utils (0.0.1)
-      active_support
+      active_support (>= 3.0.0)
 
 GEM
   remote: http://rubygems.org/
