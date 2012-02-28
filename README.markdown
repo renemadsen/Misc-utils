@@ -1,4 +1,4 @@
-Misc-tools
+Misc-utils
 ============
 
 	This is a bunch of handy methods in one gem.
